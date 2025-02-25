@@ -2,26 +2,20 @@
 <html>
 <head>
 <style>
+
+head {
+  color: white;
+  text-align: center;
+}
 body {
   background-color: lightblue;
 }
 
 h1 {
-  color: white;
+  color: red
   text-align: center;
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
+h2 {
+  font-family: Lucida Handwriting
 }
-</style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
-
