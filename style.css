@@ -19,3 +19,26 @@ padding: 0;
 line-height: 1.6;
 
 }
+
+.image gallery {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 10px; 
+   justify-content: center;
+   padding: 20px;
+   background-color: rbg (200, 200, 200)
+}
+
+.image gallery img{
+   width: 150px; 
+   height: 150px;
+   object-fit: cover;
+   border-radius: 10px;
+   border: 2px solid #ddd;
+   transition: transform 0.3s ease-in-out;
+}
+
+.image-gallery img:hover {
+   transform: scale(1.1);
+   border-color: lightblue;
+}
