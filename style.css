@@ -32,7 +32,9 @@ line-height: 1.6;
 }
 
 .image-box {
-   display: flex;
+   display: grid;
+   width: 50 px;
+   height: 50 px;
    justify-content: center;
    align-items: center;
    background-color: black;
