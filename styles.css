@@ -33,3 +33,7 @@ h1 {
   padding: 65px;
   text-align: left;
 }
+
+body {
+  background-color: rgba(223,173,223,0.6);
+}
