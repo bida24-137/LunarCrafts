@@ -28,7 +28,8 @@ h1 {
 }
 
 #myIntro {
-  text-align: left;
   background-color: violet;
   color: black;
   padding: 50px;
+  text-align: left;
+}
