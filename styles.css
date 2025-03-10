@@ -26,3 +26,9 @@ h1 {
    font-size: 40px;
    text-align: center;
 }
+
+#myIntro {
+  text-align: left;
+  background-color: violet;
+  color: black;
+  padding: 50px;
