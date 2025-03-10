@@ -1,3 +1,14 @@
-body { 
- background-color: violet;
+nav {
+  display: flex;
+  justify-content: center;
+  background-colour: #333;
+  padding: 10px 0;
 }
+
+nav ul {
+  list-stle: none;
+  display: flex;
+  gap: 20px;
+  padding: 0;
+}
+
