@@ -44,3 +44,12 @@ body {
   background-image: img src="profileteddy2.jpeg" alt="teddybear";
 }
  
+img {
+  display: block;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
