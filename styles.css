@@ -28,11 +28,14 @@ h1 {
 }
 
 #myIntro {
-  background-color: violet;
-  color: black;
+  background-color: rgb (180, 180, 180);
+  color: pink;
   padding: 65px;
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
+  image-width: 200 px;
+  image-height: 200 px;
+  float: right;
 }
 
 #myHeader {
