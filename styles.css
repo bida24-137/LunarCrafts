@@ -1,7 +1,7 @@
 nav {
   display: flex;
   justify-content: center;
-  background-colour: #333;
+  background-colour: rbg (176, 141, 211);
   padding: 10px 0;
 }
 
@@ -18,7 +18,7 @@ nav ul li {
 
 nav ul li a {
    text-decoration: none;
-   color: black;
+   color: rbg (176, 141, 211);
    padding: 10px;
 }
 
@@ -37,7 +37,7 @@ h1 {
 
 #myHeader {
   background-color: pink;
-  padding: 35px;
+  padding: 25 px;
   color: rbg (176, 141, 211);
 }
 
