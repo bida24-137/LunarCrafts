@@ -37,7 +37,7 @@ h1 {
 
 #myHeader {
   background-color: pink;
-  padding: 25 px;
+  padding: 35 px;
   color: rbg (176, 141, 211);
 }
 
@@ -47,8 +47,9 @@ body {
  
 img {
   display: block;
-  width: 500px;
-  height: 200px;
+  width: 700 px;
+  height: 400 px;
+  float: left;
 }
 
 * {
