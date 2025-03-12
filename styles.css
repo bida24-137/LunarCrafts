@@ -2,7 +2,7 @@ nav {
   display: flex;
   justify-content: center;
   background-colour: rbg (176, 141, 211);
-  padding: 10px 0;
+  padding: 25px 0;
 }
 
 nav ul {
@@ -48,7 +48,7 @@ body {
 img {
   display: block;
   width: 700 px;
-  height: 400 px;
+  height: 200 px;
   float: left;
 }
 
