@@ -68,3 +68,20 @@ table, th, td {
 }
 
 p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#div1 {
+  float: right;
+  background-color: floralwhite;
+}
+
+#div2 {
+  float: left;
+  background-color: floralwhite;
+}
+
+#div3 {
+  margin: auto;
+  background-color: floralwhite;
+}
