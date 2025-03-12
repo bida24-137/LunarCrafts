@@ -41,8 +41,8 @@ h1 {
   color: rbg (176, 141, 211);
 }
 
-body {
-  background-image: img src="profileteddy2.jpeg" alt="teddybear";
+main {
+  background-color: lightgray;
 }
  
 #myImg {
