@@ -58,7 +58,8 @@ body {
 table {
   border:"1";
   width: 85%;
-  background-color: pink;
+  margin: auto;
+  background-color: lightgray;
 }
 
 table, th, td {
