@@ -45,8 +45,7 @@ body {
   background-image: img src="profileteddy2.jpeg" alt="teddybear";
 }
  
-img {
-  display: block;
+#myImg {
   width: 700 px;
   height: 200 px;
   float: left;
