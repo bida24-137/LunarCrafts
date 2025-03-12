@@ -19,7 +19,7 @@ nav ul li {
 nav ul li a {
    text-decoration: none;
    color: rbg (176, 141, 211);
-   padding: 10px;
+   padding: 25px;
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
 
 #myHeader {
   background-color: pink;
-  padding: 35 px;
+  padding: 40px;
   color: rbg (176, 141, 211);
 }
 
@@ -46,9 +46,9 @@ body {
 }
  
 #myImg {
-  width: 700 px;
-  height: 200 px;
-  float: left;
+  width: 70 px;
+  height: 20 px;
+  float: center;
 }
 
 * {
