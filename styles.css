@@ -74,14 +74,20 @@ p {
 #div1 {
   float: right;
   background-color: floralwhite;
+  padding: 40px;
+  border-style: dashed;
 }
 
 #div2 {
   float: left;
   background-color: floralwhite;
+  padding: 40px;
+  border-style: dashed;
 }
 
 #div3 {
-  margin: auto;
+  float: center;
   background-color: floralwhite;
+  padding: 40px;
+  border-style: dashed;
 }
