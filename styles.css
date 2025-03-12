@@ -54,3 +54,14 @@ body {
 * {
   margin: 0;
 }
+
+table {
+  border:"1";
+  width: 85%;
+  background-color: pink;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-style: outset;
+}
